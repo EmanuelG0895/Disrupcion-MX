@@ -1,0 +1,25 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.form-content {
+    max-width: 500px;
+    width: 100%;
+}
+
+.form-label {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    justify-content: center;
+}
+
+.form-label textarea {
+    width: 100%;
+    height: 100%;
+    resize: none;
+}

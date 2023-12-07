@@ -1,0 +1,21 @@
+.balance{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.movimientos{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+}
+.button_color{
+    font-weight: bold;
+    border: none;
+    border-radius:8px;
+    color: #ffffff;
+    background-color: #4a65a3;
+    padding: 1rem;
+}
